@@ -1,5 +1,5 @@
 function greet () {
+  greet = `Hello 'Your Name'!`;
   return;
 }
-console.log(greet(`Hallo.`));
-console.log(greet('Whats up?'))
+console.log(greet());
